@@ -1,4 +1,4 @@
-# javascript-observer-practice
+# webapi-observer-practice
 
 > mutation observer로 돔 변경 감시
 
